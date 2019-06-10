@@ -1,7 +1,8 @@
 # MLP Keras Example
+Get about 90% accuracy by adjusting some hyper parameters.
 
 # Dependencies
-- tensorflow-gpu
+- tensorflow-gpu or tensorflow
 - keras
 
 # Note
