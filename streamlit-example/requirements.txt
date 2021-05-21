@@ -1,5 +1,5 @@
 numpy
 matplotlib
-tensorflow==1.13.1
+tensorflow==2.5.0
 pydot_ng
 streamlit
